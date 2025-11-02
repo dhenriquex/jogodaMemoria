@@ -21,6 +21,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 * **Node.js** (versão 14 ou superior)
 * **npm** (vem junto com o Node)
+* **biblioteca styled-components** (instalados com os comandos _npm install styled-components_ e _npm install -D @types/styled-components_)
 
 
 ##  Como rodar o projeto
